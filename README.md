@@ -16,6 +16,7 @@ The objective of this project is to analyze the content available on Amazon Prim
 
 
 
+
 ## ❓ Key Questions Addressed  
 
 🔢 How many total titles are available on Amazon Prime Video?  
@@ -24,6 +25,8 @@ The objective of this project is to analyze the content available on Amazon Prim
 🌎 Which countries contribute the most to Prime Video's content library?  
 🎬 What is the proportion of Movies vs. TV Shows?  
 📆 How has the number of shows changed over the years?  
+
+
 
 
 
@@ -36,6 +39,8 @@ The objective of this project is to analyze the content available on Amazon Prim
 
 
 
+
+
 ## 🔎 Insights  
 
 🎞 **Total Titles**: There are **9,655** titles available on Prime Video.  
@@ -44,6 +49,8 @@ The objective of this project is to analyze the content available on Amazon Prim
 🌍 **Shows by Country**: The highest content contribution is from **North America and India**.  
 📊 **Movies vs. TV Shows**: **80.82%** of the content is TV Shows, while **19.18%** is Movies.  
 📆 **Trends Over the Years**: The number of shows has significantly increased after the **2000s**, peaking in recent years.  
+
+
 
 
 
