@@ -7,7 +7,12 @@ The objective of this project is to analyze the content available on Amazon Prim
 
 
 ## 📂 Dataset Used  
-Amazon prime (https://github.com/Adesh282001/Amazon-Prime-DashBoard/blob/main/amazon_prime_titles.csv%20(1).zip)
+## Amazon prime (https://github.com/Adesh282001/Amazon-Prime-DashBoard/blob/main/amazon_prime_titles.csv%20(1).zip)
+
+
+## DashBoard
+![Amazon Dashboard](https://github.com/user-attachments/assets/f37cd739-b921-41e9-b2b1-8c0dce07b450)
+
 
 
 
@@ -30,6 +35,7 @@ Amazon prime (https://github.com/Adesh282001/Amazon-Prime-DashBoard/blob/main/am
 
 
 
+
 ## 🔎 Insights  
 
 🎞 **Total Titles**: There are **9,655** titles available on Prime Video.  
@@ -41,9 +47,11 @@ Amazon prime (https://github.com/Adesh282001/Amazon-Prime-DashBoard/blob/main/am
 
 
 
+
 ## 🏁 Conclusion  
 
 The Amazon Prime Video dashboard provides a detailed overview of the platform's content distribution. Understanding the dominance of certain genres, ratings, and content trends over the years can help businesses and content creators make data-driven decisions regarding content curation and licensing.  
+
 
 
 
