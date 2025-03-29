@@ -7,7 +7,7 @@ The objective of this project is to analyze the content available on Amazon Prim
 
 
 ## 📂 Dataset Used  
-## Amazon prime (https://github.com/Adesh282001/Amazon-Prime-DashBoard/blob/main/amazon_prime_titles.csv%20(1).zip)
+ Amazon prime (https://github.com/Adesh282001/Amazon-Prime-DashBoard/blob/main/amazon_prime_titles.csv%20(1).zip)
 
 
 ## DashBoard
